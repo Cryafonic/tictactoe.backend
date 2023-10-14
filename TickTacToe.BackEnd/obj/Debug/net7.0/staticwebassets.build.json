@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mt8zhUzVOGl29KqKtoqITN3sAcdDfJ423rQODLUiPDI=",
+  "Source": "TickTacToe.BackEnd",
+  "BasePath": "_content/TickTacToe.BackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
